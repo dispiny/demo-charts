@@ -2,9 +2,9 @@ apiVersion: v1
 entries:
   backend-skills-repo:
   - apiVersion: v2
-    created: "2025-01-04T08:02:48.713944569Z"
+    created: "2025-01-04T10:15:16.894022135Z"
     description: A Helm chart for Kubernetes
-    digest: ba3d8ef54d00345e1ac4ca22b8498b7118f7f3af1734c37bd4cf73fe7fc53257
+    digest: 528ac062fc130b6d2caa74ecbc7cf83748ad9ae2b6db6a188fbddf7938c432e1
     name: backend-skills-repo
     type: application
     urls:
@@ -38,4 +38,4 @@ entries:
     urls:
     - https://github.com/dispiny/demo-charts/releases/download/v1.0.0/frontend-skills-repo-1.0.0.tgz
     version: 1.0.0
-generated: "2025-01-04T08:02:48.713633245Z"
+generated: "2025-01-04T10:15:16.89369678Z"
